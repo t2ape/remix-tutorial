@@ -1,6 +1,8 @@
-# Welcome to Remix!
+# Remix tutorial
 
-- [Remix Docs](https://remix.run/docs)
+## What is this?
+
+This is a tutorial for remix ( https://remix.run/docs ).
 
 ## Development
 
